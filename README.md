@@ -44,20 +44,24 @@ Login2Xplore: A company that is founded to build Power Data Structures to meet t
 
 
 ## Screenshots
-![dash](https://user-images.githubusercontent.com/132218558/235573666-fd0cde2d-6e9e-428a-be71-414161909db3.png)
+![dash](https://github.com/Pooja-gif-byte/Micro-Management-Project/assets/132218558/0d5dc9cf-0921-4eb7-8b2d-0331d2d3579e)
+
 
  
  ## Welcome to L2E
  ![l2e](https://user-images.githubusercontent.com/132218558/235574423-21dc21d4-7641-45d1-8a50-d43f762dc6ab.png)
 
   ## Using Talend API Tester
-  ![tpi](https://user-images.githubusercontent.com/132218558/235574431-278efda3-3565-4090-8c19-e2094d1327ed.png)
+ ![tpi](https://github.com/Pooja-gif-byte/Micro-Management-Project/assets/132218558/5083f45e-6c8a-492b-875b-36c81222f205)
+
 
   ## Create Form using html ,js
-  ![form](https://user-images.githubusercontent.com/132218558/235574460-4b04525f-bf9b-426f-87db-5898a6a266af.png) 
+ ![project](https://github.com/Pooja-gif-byte/Micro-Management-Project/assets/132218558/27915565-0cef-4b15-9ce9-ea417e85e896)
+
 
  ## Dashboard(database store)
-  ![Dashboard](https://user-images.githubusercontent.com/132218558/235574473-a7f2838b-f2be-401b-a5c6-016bf60c5de8.png)
+  ![viewww](https://github.com/Pooja-gif-byte/Micro-Management-Project/assets/132218558/615c34a3-5e82-43aa-96f3-2a2012a7bcf7)
+
   
   # Thank you L2E Team:)
   
